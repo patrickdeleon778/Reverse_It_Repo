@@ -1,0 +1,15 @@
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/bin/Debug/net6.0/Reverse_It_Repo
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/bin/Debug/net6.0/Reverse_It_Repo.deps.json
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/bin/Debug/net6.0/Reverse_It_Repo.runtimeconfig.json
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/bin/Debug/net6.0/Reverse_It_Repo.dll
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/bin/Debug/net6.0/Reverse_It_Repo.pdb
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/obj/Debug/net6.0/Reverse_It_Repo.csproj.AssemblyReference.cache
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/obj/Debug/net6.0/Reverse_It_Repo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/obj/Debug/net6.0/Reverse_It_Repo.AssemblyInfoInputs.cache
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/obj/Debug/net6.0/Reverse_It_Repo.AssemblyInfo.cs
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/obj/Debug/net6.0/Reverse_It_Repo.csproj.CoreCompileInputs.cache
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/obj/Debug/net6.0/Reverse_It_Repo.dll
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/obj/Debug/net6.0/refint/Reverse_It_Repo.dll
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/obj/Debug/net6.0/Reverse_It_Repo.pdb
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/obj/Debug/net6.0/Reverse_It_Repo.genruntimeconfig.cache
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/ReverseIt_LocalRev/Reverse_It_Repo/obj/Debug/net6.0/ref/Reverse_It_Repo.dll
